@@ -1,0 +1,6 @@
+# Ignore everything by default
+*
+
+# Allow root .gitignore and root .md files only
+!/.gitignore
+!/*.md
